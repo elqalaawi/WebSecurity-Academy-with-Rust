@@ -1,5 +1,5 @@
 [package]
-name = " referer_based_access_control"
+name = "referer_based_access_control"
 version = "0.1.0"
 edition = "2021"
 

@@ -9,5 +9,6 @@ members = [
     'Insufficient workflow validation',
     'Authentication bypass via flawed state machine',
     'Infinite money logic flaw',
-    'Authentication bypass via encryption oracle'
+    'Authentication bypass via encryption oracle',
+    'Bypassing access controls using email address parsing discrepancies'
 ]

@@ -1,5 +1,5 @@
 [package]
-name = " user_role_can_be_modified_in_user_profile"
+name = "user_role_can_be_modified_in_user_profile"
 version = "0.1.0"
 edition = "2021"
 

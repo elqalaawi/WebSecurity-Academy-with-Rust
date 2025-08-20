@@ -5,8 +5,8 @@
 * Hack Steps: 
 *      1. Fetch the register page
 *      2. Extract the csrf token and session cookie to register a new account
-*      3. Register a new account Register a new account with a suitable offset
-*         and dontwannacry.com before the real domain
+*      3. Register a new account with a suitable offset and dontwannacry.com
+*         before the real domain
 *      4. Fetch the email client
 *      5. Extract the link of account registration
 *      6. Complete the account registration by following the link

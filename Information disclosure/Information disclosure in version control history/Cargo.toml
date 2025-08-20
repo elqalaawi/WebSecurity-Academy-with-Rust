@@ -1,5 +1,5 @@
 [package]
-name = " information_disclosure_in_version_control_history"
+name = "information_disclosure_in_version_control_history"
 version = "0.1.0"
 edition = "2021"
 

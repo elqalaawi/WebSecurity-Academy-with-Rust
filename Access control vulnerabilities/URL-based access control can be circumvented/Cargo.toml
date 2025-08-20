@@ -1,5 +1,5 @@
 [package]
-name = " url_based_access_control_can_be_circumvented"
+name = "url_based_access_control_can_be_circumvented"
 version = "0.1.0"
 edition = "2021"
 

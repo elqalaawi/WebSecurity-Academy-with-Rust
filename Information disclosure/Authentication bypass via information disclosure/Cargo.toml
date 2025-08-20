@@ -1,5 +1,5 @@
 [package]
-name = " authentication_bypass_via_information_disclosure"
+name = "authentication_bypass_via_information_disclosure"
 version = "0.1.0"
 edition = "2021"
 

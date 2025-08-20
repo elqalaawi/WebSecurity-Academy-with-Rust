@@ -1,5 +1,5 @@
 [package]
-name = " user_id_controlled_by_request_parameter_with_data_leakage_in_redirect"
+name = "user_id_controlled_by_request_parameter_with_data_leakage_in_redirect"
 version = "0.1.0"
 edition = "2021"
 

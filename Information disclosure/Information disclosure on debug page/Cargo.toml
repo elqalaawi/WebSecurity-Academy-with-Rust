@@ -1,5 +1,5 @@
 [package]
-name = " information_disclosure_on_debug_page"
+name = "information_disclosure_on_debug_page"
 version = "0.1.0"
 edition = "2021"
 

@@ -1,5 +1,5 @@
 [package]
-name = " unprotected_admin_functionality"
+name = "unprotected_admin_functionality"
 version = "0.1.0"
 edition = "2021"
 

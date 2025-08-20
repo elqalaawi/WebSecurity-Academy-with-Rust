@@ -1,5 +1,5 @@
 [package]
-name = " unprotected_admin_functionality_with_unpredictable_url"
+name = "unprotected_admin_functionality_with_unpredictable_url"
 version = "0.1.0"
 edition = "2021"
 

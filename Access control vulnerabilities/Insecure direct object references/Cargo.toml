@@ -1,5 +1,5 @@
 [package]
-name = " insecure_direct_object_references"
+name = "insecure_direct_object_references"
 version = "0.1.0"
 edition = "2021"
 

@@ -1,5 +1,5 @@
 [package]
-name = " information_disclosure_in_error_messages"
+name = "information_disclosure_in_error_messages"
 version = "0.1.0"
 edition = "2021"
 

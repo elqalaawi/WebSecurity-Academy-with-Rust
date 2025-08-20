@@ -1,5 +1,5 @@
 [package]
-name = " source_code_disclosure_via_backup_files"
+name = "source_code_disclosure_via_backup_files"
 version = "0.1.0"
 edition = "2021"
 
