@@ -1,4 +1,5 @@
 [workspace]
 members = [
-    'Exploiting path mapping for web cache deception'
+    'Exploiting path mapping for web cache deception',
+    'Exploiting path delimiters for web cache deception'
 ]
