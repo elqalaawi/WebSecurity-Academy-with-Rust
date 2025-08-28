@@ -3,5 +3,6 @@ members = [
     'Exploiting path mapping for web cache deception',
     'Exploiting path delimiters for web cache deception',
     'Exploiting origin server normalization for web cache deception',
-    'Exploiting cache server normalization for web cache deception'
+    'Exploiting cache server normalization for web cache deception',
+    'Exploiting exact-match cache rules for web cache deception'
 ]
